@@ -73,4 +73,4 @@ Passionate about teaching programming and building helpful tools.
 
 ### 🤝 Let’s connect
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](nadamohamedafez@gmail.com)
-
+📫 Reach me: [Email](nadamohamedafez@gmail.com)
