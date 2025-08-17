@@ -18,7 +18,7 @@ Passionate about teaching programming and building helpful tools.
 - OOP , Data Structures , Algorithms 
 - MySQL , SQL , Firebase 
 - HTML , CSS , BootStrap , Tailwind
-- Angular , React Native
+- Angular , React , React Native
   
 ---
   
@@ -52,13 +52,16 @@ Passionate about teaching programming and building helpful tools.
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Team Projects
 - **Medicine Reminder (React Native + Firebase)** – CRUD, notifications, real‑time sync.  
-  🔗 Repo: https://github.com/Jessy404/project
+  🔗 Repo: https://github.com/Jessy404/project ("Contributed as team member").
   
  - **PacMan (Java + JOGL library(Java OpenGL)** – Intellj IDE.  
-  🔗 Repo: https://github.com/MariamGhanim/PacMan
-  
+  🔗 Repo: https://github.com/MariamGhanim/PacMan ("Contributed as team member").
+
+- **Job Portal Website (react + mongodb)**  .  
+  🔗 Repo:  https://github.com/AhmedEssamYouns/job-portal-website ("Contributed as team member").
+
 ---
 
 ## 📊 GitHub Stats
