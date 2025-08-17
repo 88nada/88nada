@@ -9,7 +9,9 @@ strong knowledge in **React Native (Expo)** for mobile app development, and  wor
 I am constantly learning new technologies and frameworks, Focus on creating clean code and I enjoy solving complex problems and turning ideas into real working solutions.
 Passionate about teaching programming and building helpful tools.
 
+
 🤖 Skills:
+
 - C++ , C# , Java , JS 
 - ASP .NET Core
 - LINQ , Entity Framework , Domain Driven Design (DDD)
